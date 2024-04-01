@@ -1,0 +1,2 @@
+module ဆိုတာ export လုပ်ပြီး သုံးလို့ရတဲ့ file and folder
+package ဆိုတာ collection of module.
